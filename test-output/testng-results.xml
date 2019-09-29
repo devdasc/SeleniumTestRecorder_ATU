@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26782" started-at="2019-09-29T20:09:26Z" finished-at="2019-09-29T20:09:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26782" started-at="2019-09-29T20:09:26Z" finished-at="2019-09-29T20:09:52Z">
+      <class name="com.automation.SeleniumScreenRecorderATU.DemoTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.SeleniumScreenRecorderATU.DemoTest@77caeb3e]" name="setUp" is-config="true" duration-ms="5485" started-at="2019-09-29T20:09:26Z" finished-at="2019-09-29T20:09:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.automation.SeleniumScreenRecorderATU.DemoTest@77caeb3e]" name="beforeMethod" is-config="true" duration-ms="1373" started-at="2019-09-29T20:09:31Z" finished-at="2019-09-29T20:09:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.SeleniumScreenRecorderATU.DemoTest.navigationTest() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="navigationTest()[pri:0, instance:com.automation.SeleniumScreenRecorderATU.DemoTest@77caeb3e]" name="navigationTest" duration-ms="8430" started-at="2019-09-29T20:09:33Z" finished-at="2019-09-29T20:09:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.automation.SeleniumScreenRecorderATU.DemoTest@77caeb3e]" name="afterMethod" is-config="true" duration-ms="2871" started-at="2019-09-29T20:09:41Z" finished-at="2019-09-29T20:09:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.automation.SeleniumScreenRecorderATU.DemoTest@77caeb3e]" name="beforeMethod" is-config="true" duration-ms="256" started-at="2019-09-29T20:09:44Z" finished-at="2019-09-29T20:09:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.SeleniumScreenRecorderATU.DemoTest.navigationTest2() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="navigationTest2()[pri:0, instance:com.automation.SeleniumScreenRecorderATU.DemoTest@77caeb3e]" name="navigationTest2" duration-ms="4439" started-at="2019-09-29T20:09:44Z" finished-at="2019-09-29T20:09:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigationTest2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.automation.SeleniumScreenRecorderATU.DemoTest@77caeb3e]" name="afterMethod" is-config="true" duration-ms="2883" started-at="2019-09-29T20:09:49Z" finished-at="2019-09-29T20:09:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.SeleniumScreenRecorderATU.DemoTest@77caeb3e]" name="tearDown" is-config="true" duration-ms="1000" started-at="2019-09-29T20:09:51Z" finished-at="2019-09-29T20:09:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.SeleniumScreenRecorderATU.DemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
